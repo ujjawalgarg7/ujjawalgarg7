@@ -44,8 +44,8 @@ When not coding, you might find me brainstorming ideas, mentoring peers, or expe
 ## 🤝 Let's Connect
 Feel free to reach out or collaborate:
 - 📧 Email: ujjawalgarg7@gmail.com
-- 🐦 Twitter: [@UjjawalGarg07](https://twitter.com)
-- 💼 LinkedIn: [ujjawal-garg-588585202](https://linkedin.com/in)
+- 🐦 Twitter: [@UjjawalGarg07](https://twitter.com/UjjawalGarg07)
+- 💼 LinkedIn: [Ujjawal Garg](https://linkedin.com/ujjawal-garg-588585202)
 
 ---
 
