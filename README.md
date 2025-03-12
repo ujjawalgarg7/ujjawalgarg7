@@ -15,8 +15,7 @@ When not coding, you might find me brainstorming ideas, mentoring peers, or expe
 
 ## 💡 Skills & Tools
 ### **Programming**
-- **Languages**: C, C++, Python, Java, JavaScript, TypeScript
-- **Web Development**: React, Node.js, Express.js, HTML5, CSS3, Tailwind CSS, Next.js, PHP
+- **Languages**: C, C++, Python, Java, JavaScript
 - **Microcontrollers**: Arduino, ESP32
 - **ML & Data Science**: TensorFlow, NumPy, Pandas, OpenCV
 
