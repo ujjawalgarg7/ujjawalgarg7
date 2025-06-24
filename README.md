@@ -45,18 +45,17 @@ When not coding, you might find me brainstorming ideas, mentoring peers, or expe
 
 ---
 ## 📊 GitHub Stats
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=ujjawalgarg7&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjawalgarg7&layout=compact&show_icons=true&theme=react" alt="ujjawalgarg7 github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalgarg7&layout=compact&theme=react" alt="ujjawalgarg7 github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawalgarg7&theme=merko" alt="ujjawalgarg7 github readme activity graph" width="60%" />
+</div>
 
-### General Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjawalgarg7&show_icons=true&theme=dracula&count_private=true)
-
-### Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalgarg7&layout=compact&theme=dracula)
-
-### 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ujjawalgarg7&theme=dracula)](https://git.io/streak-stats)
-### 📈 Contribution Graph  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjawalgarg7&theme=dracula)
-
+<br />
 ---
 ## 🎯 Future Goals
 - Build impactful applications that address **real-world challenges**.
