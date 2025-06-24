@@ -53,8 +53,7 @@ When not coding, you might find me brainstorming ideas, mentoring peers, or expe
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalgarg7&layout=compact&theme=dracula)
 
 ### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ujjawalgarg7&theme=dracula)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ujjawalgarg7)](https://git.io/streak-stats)
 ### 📈 Contribution Graph  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjawalgarg7&theme=dracula)
 
