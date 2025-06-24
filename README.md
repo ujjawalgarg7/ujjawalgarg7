@@ -56,7 +56,9 @@ When not coding, you might find me brainstorming ideas, mentoring peers, or expe
 </div>
 
 <br />
+
 ---
+
 ## 🎯 Future Goals
 - Build impactful applications that address **real-world challenges**.
 - Contribute to open-source projects and the **tech community**.
