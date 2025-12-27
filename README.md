@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjawalgarg7&theme=github_dark" alt="Profile Details" />
 </div>
-## 🚀 About Me
+
+### 🚀 About Me
 I'm a passionate **Developer** and a **Tech Enthusiast** with a keen interest in creating innovative and practical solutions. As a CSE undergraduate at **Jaypee Institute of Information Technology**, I enjoy exploring cutting-edge technologies and bringing ideas to life.
 
 ### 🌟 What I Do
